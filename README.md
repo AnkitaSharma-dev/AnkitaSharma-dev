@@ -1,6 +1,6 @@
 # Hi, I am Ankita👋
 
-🎓 BCA 2nd year Student 
+🎓 BCA 2nd year Student  
 
 Passionate about building useful software, exploring new technologies, and turning ideas into real-world projects.
 
