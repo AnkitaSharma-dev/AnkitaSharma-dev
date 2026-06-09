@@ -1,4 +1,4 @@
-# Hi, I am Ankita hand👋
+# Hi, I am Ankita👋
 
 🎓 BCA 2nd year Student 
 
