@@ -1,19 +1,19 @@
 # Hi, I am Ankita👋
 
-🎓 BCA 2nd year Student  
+### 🎓 BCA 2nd year Student  
 
 Passionate about building useful software, exploring new technologies, and turning ideas into real-world projects.
 
-💡 Interests
+### 💡 Interests
 Web Development • AI/ML • Open Source • Problem Solving
 
-🚀 Currently Learning
+### 🚀 Currently Learning
 Modern Development Tools, System Design, and Scalable Applications
 
-🛠 Tech Stack
+### 🛠 Tech Stack
 C • C++ • Python • JavaScript • HTML • CSS • SQL • Git • GitHub
 
-📂 Projects
+### 📂 Projects
 - Next In Line
 - Health Risk Prediction
 
