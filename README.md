@@ -1,16 +1,19 @@
-## Hi there 👋
+#Hi, I am Ankita hand👋
 
-<!--
-**AnkitaSharma-dev/AnkitaSharma-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA 2nd year Student 
 
-Here are some ideas to get you started:
+Passionate about building useful software, exploring new technologies, and turning ideas into real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Interests
+Web Development • AI/ML • Open Source • Problem Solving
+
+🚀 Currently Learning
+Modern Development Tools, System Design, and Scalable Applications
+
+🛠 Tech Stack
+C • C++ • Python • JavaScript • HTML • CSS • SQL • Git • GitHub
+
+📂 Projects
+Next In Line
+Health Risk Prediction
+
