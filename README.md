@@ -14,6 +14,6 @@ Modern Development Tools, System Design, and Scalable Applications
 C • C++ • Python • JavaScript • HTML • CSS • SQL • Git • GitHub
 
 📂 Projects
-Next In Line
-Health Risk Prediction
+-Next In Line
+-Health Risk Prediction
 
